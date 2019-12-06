@@ -1,0 +1,6 @@
+City,Sacramento,Minneapolis,Kansas City,Houston,Washington
+Sacramento,0,1670,1713,1932,NaN
+Minneapolis,1670,0,439,NaN,1113
+Kansas City,1713,439,0,746,1061
+Houston,1932,NaN,746,0,1410
+Washington,NaN,1113,1061,1410,0

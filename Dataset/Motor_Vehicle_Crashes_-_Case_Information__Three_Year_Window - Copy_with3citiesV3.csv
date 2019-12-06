@@ -1,0 +1,584 @@
+Year,Crash Descriptor,Time,Time Label,Date,Day of Week,Police Report,Lighting Conditions,City,Collision Type Descriptor,County Name,Road Descriptor,Weather Conditions,Traffic Control Device,Road Surface Conditions,DOT Reference Marker Location,Pedestrian Bicyclist Action,Event Descriptor,Number of Vehicles Involved
+2016,Property Damage & Injury Accident,21:53,Night,12/31/2016,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051128,Not Applicable,"Sign Post, Collision With Fixed Object",1
+2016,Property Damage Accident,13:29,Afternoon,12/30/2016,Friday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Cloudy,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,11:01,Morning,12/26/2016,Monday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Sleet/Hail/Freezing Rain,None,Snow/Ice,11 73051117,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,06:31,Morning,12/22/2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,None,Slush,81I73051156,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,14:36,Afternoon,12/22/2016,Thursday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Snow,Stop Sign,Snow/Ice,11 73051116,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,22:08,Night,12/22/2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Clear,None,Wet,81I73051157,Not Applicable,Deer,1
+2016,Injury Accident,04:34,Morning,12/21/2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Snow/Ice,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2016,Property Damage Accident,17:30,Night,12/21/2016,Wednesday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,17:46,Night,12/19/2016,Monday,Y,Dusk,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041319,Not Applicable,"Other Motor Vehicle, Collision With",3
+2016,Property Damage & Injury Accident,12:30,Afternoon,12/16/2016,Friday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,14:00,Afternoon,12/15/2016,Thursday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Snow,None,Wet,178 73011089,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,19:34,Night,12/14/2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051111,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,06:59,Morning,12-08-2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,None,Snow/Ice,,Not Applicable,"Culver/Head Wall, Collision With Fixed Object",1
+2016,Injury Accident,09:58,Morning,12-05-2016,Monday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Slush,81I73051143,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Injury Accident,10:19,Morning,12-05-2016,Monday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Sleet/Hail/Freezing Rain,None,Slush,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,21:00,Night,12-04-2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,18:42,Night,12-01-2016,Thursday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,No Passing Zone,Wet,,Not Applicable,Deer,1
+2016,Property Damage Accident,13:50,Afternoon,11/22/2016,Tuesday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,02:50,Morning,11/21/2016,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051161,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,21:00,Night,11/21/2016,Monday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Snow/Ice,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,19:25,Night,11/19/2016,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,None,Wet,81I73051105,Not Applicable,"Animal, Collision With",1
+2016,Property Damage & Injury Accident,10:19,Morning,11/19/2016,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight at Hill Crest,Cloudy,Stop Sign,Dry,11 73051101,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Injury Accident,06:29,Morning,11/17/2016,Thursday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Curve and Level,Clear,None,Wet,,Riding/Walking/Skating Along Highway With Traffic,"Bicyclist, Collision With",1
+2016,Injury Accident,11:39,Morning,11/13/2016,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051096,Not Applicable,Deer,1
+2016,Property Damage Accident,06:33,Morning,11-11-2016,Friday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,07:05,Morning,11-08-2016,Tuesday,Y,Dawn,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,16:06,Night,11-05-2016,Saturday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,23:46,Night,10/30/2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051098,Not Applicable,Deer,1
+2016,Property Damage Accident,12:24,Afternoon,10/27/2016,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,No Passing Zone,Snow/Ice,971P73011003,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,21:05,Night,10/23/2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051098,Not Applicable,Deer,1
+2016,Property Damage Accident,14:00,Afternoon,10/20/2016,Thursday,N,Unknown,Minneapolis,Unknown,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,18:32,Night,10/20/2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,None,Wet,,Not Applicable,Deer,1
+2016,Property Damage Accident,18:15,Night,10/18/2016,Tuesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Rain,None,Wet,81I73051164,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,07:15,Morning,10-12-2016,Wednesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041334,Not Applicable,Deer,1
+2016,Property Damage Accident,17:20,Night,10-11-2016,Tuesday,Y,Daylight,Kansas City,REAR END,STEUBEN,Curve and Grade,Clear,None,Dry,17 64041321,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,09:20,Morning,10-11-2016,Tuesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Fog/Smog/Smoke,No Passing Zone,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,06:24,Morning,10-10-2016,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051110,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,17:05,Night,10-03-2016,Monday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,Traffic Signal,Dry,178 73011103,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,01:02,Morning,10-02-2016,Sunday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Straight and Level,Cloudy,None,Wet,,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,21:40,Night,09/20/2016,Tuesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,15:32,Afternoon,09/17/2016,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Grade,Rain,Stop Sign,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,20:35,Night,09-10-2016,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,15:49,Afternoon,09-09-2016,Friday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Level,Clear,None,Dry,17 64041321,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,10:30,Morning,09-09-2016,Friday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Guide Rail - End, Collision With Fixed Object",1
+2016,Property Damage Accident,05:30,Morning,09-07-2016,Wednesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Curve and Grade,Cloudy,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,05:52,Morning,09-07-2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,17:55,Night,09-01-2016,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2016,Property Damage Accident,00:34,Morning,08/31/2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051147,Not Applicable,Deer,1
+2016,Property Damage Accident,16:25,Night,08/19/2016,Friday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051122,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,20:38,Night,08/19/2016,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,15:52,Afternoon,08-10-2016,Wednesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051169,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,12:30,Afternoon,08-09-2016,Tuesday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,14:34,Afternoon,08-09-2016,Tuesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2016,Property Damage Accident,20:46,Night,08-07-2016,Sunday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,22:36,Night,08-04-2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051142,Not Applicable,Deer,1
+2016,Property Damage Accident,18:30,Night,08-04-2016,Thursday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Unknown,Clear,None,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2016,Property Damage Accident,08:08,Morning,08-02-2016,Tuesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,178 73011100,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,05:58,Morning,07/31/2016,Sunday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051156,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,21:52,Night,07/30/2016,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051109,Not Applicable,Deer,1
+2016,Property Damage Accident,10:45,Morning,07/26/2016,Tuesday,N,Unknown,Kansas City,REAR END,STEUBEN,Unknown,Unknown,Unknown,Unknown,17 64041320,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,00:13,Morning,07/24/2016,Sunday,Y,Dark-Road Lighted,Kansas City,LEFT TURN (3),STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,17 64041331,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Injury Accident,21:18,Night,07/24/2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,06:39,Morning,07/23/2016,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Clear,None,Dry,81I73051160,Not Applicable,Deer,1
+2016,Injury Accident,15:10,Afternoon,07/22/2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,177 73011022,Not Applicable,"Other*, Non-Collision",1
+2016,Property Damage & Injury Accident,07:45,Morning,07/19/2016,Tuesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight at Hill Crest,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,00:00,Morning,07/18/2016,Monday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Clear,None,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,15:53,Afternoon,07-12-2016,Tuesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051122,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,05:55,Morning,07-09-2016,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,None,Wet,81I73051146,Not Applicable,"Sign Post, Collision With Fixed Object",1
+2016,Injury Accident,12:35,Afternoon,07-09-2016,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,11 73051139,Not in Roadway (Indicate),"Bicyclist, Collision With",1
+2016,Property Damage Accident,12:55,Afternoon,07-04-2016,Monday,Y,Daylight,Minneapolis,Unknown,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,10:40,Morning,06/30/2016,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,None,Dry,,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,17:04,Night,06/29/2016,Wednesday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Grade,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,23:13,Night,06/24/2016,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051116,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,16:14,Night,06/19/2016,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,178 73011103,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,16:45,Night,06/17/2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Clear,No Passing Zone,Dry,178 73011075,Not Applicable,Deer,1
+2016,Property Damage Accident,01:34,Morning,06/13/2016,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051131,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,18:10,Night,06-08-2016,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,22:05,Night,06-04-2016,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,11 73051119,Not Applicable,Deer,1
+2016,Property Damage Accident,16:30,Night,06-04-2016,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051123,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,05:23,Morning,06-03-2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,22:15,Night,06-01-2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051096,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,07:36,Morning,05/26/2016,Thursday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,17:25,Night,05/25/2016,Wednesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,08:24,Morning,05/25/2016,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,178 73011066,Not Applicable,Deer,1
+2016,Property Damage Accident,13:45,Afternoon,05/23/2016,Monday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Clear,None,Dry,178 73011099,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,16:23,Night,05/22/2016,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2016,Property Damage Accident,06:00,Morning,05/20/2016,Friday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage Accident,20:45,Night,05/16/2016,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,08:00,Morning,05-06-2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Clear,None,Other,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Injury Accident,16:23,Night,05-04-2016,Wednesday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,177 73011001,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,20:56,Night,04/30/2016,Saturday,Y,Dark-Road Lighted,Minneapolis,RIGHT ANGLE,JEFFERSON,Curve and Level,Cloudy,No Passing Zone,Dry,11 73051115,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",2
+2016,Property Damage & Injury Accident,08:42,Morning,04/22/2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Dry,178 73011102,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2016,Property Damage Accident,20:48,Night,04/22/2016,Friday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041334,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,01:38,Morning,04/18/2016,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,00:00,Morning,04/16/2016,Saturday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,12:24,Afternoon,04/13/2016,Wednesday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,16:23,Night,04-12-2016,Tuesday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,Stop Sign,Dry,11 73051115,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,06:21,Morning,04-11-2016,Monday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,None,Wet,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,22:35,Night,04-07-2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Cloudy,No Passing Zone,Dry,,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Fatal Accident,16:41,Night,03/23/2016,Wednesday,Y,Daylight,Minneapolis,HEAD ON,JEFFERSON,Straight at Hill Crest,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,03:00,Morning,03/19/2016,Saturday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Injury Accident,10:30,Morning,03/19/2016,Saturday,N,Daylight,Kansas City,Unknown,STEUBEN,Straight and Level,Clear,Unknown,Dry,17 64041329,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,23:51,Night,03/17/2016,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Wet,178 73011068,Not Applicable,Deer,1
+2016,Property Damage Accident,10:45,Morning,03/13/2016,Sunday,N,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Unknown,Rain,None,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,11:50,Morning,03-11-2016,Friday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage Accident,00:00,Morning,03-06-2016,Sunday,N,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Curve and Level,Clear,None,Dry,,Not Applicable,"Animal, Collision With",1
+2016,Injury Accident,01:18,Morning,03-02-2016,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Sleet/Hail/Freezing Rain,None,Snow/Ice,81I73051101,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,20:15,Night,02/27/2016,Saturday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage Accident,16:50,Night,02/18/2016,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Traffic Signal,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2016,Property Damage Accident,14:16,Afternoon,02/17/2016,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051097,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2016,Property Damage Accident,10:22,Morning,02/15/2016,Monday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Cloudy,No Passing Zone,Wet,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,20:02,Night,02/14/2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051118,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2016,Property Damage Accident,02:40,Morning,02/14/2016,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Cloudy,None,Snow/Ice,11 73051169,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,07:05,Morning,02-05-2016,Friday,Y,Dawn,Kansas City,OTHER,STEUBEN,Curve and Grade,Snow,None,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,21:29,Night,01/18/2016,Monday,Y,Dark-Road Unlighted,Minneapolis,HEAD ON,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,07:30,Morning,01/15/2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Wet,11 73051135,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,15:45,Afternoon,01/14/2016,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,None,Slush,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2016,Property Damage Accident,12:05,Afternoon,01-12-2016,Tuesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Snow,None,Slush,177 73011000,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,19:40,Night,01-08-2016,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,178 73011084,Not Applicable,Deer,1
+2016,Property Damage Accident,23:45,Night,01-07-2016,Thursday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,17 64041339,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,10:03,Morning,01-03-2016,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051147,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2016,Property Damage Accident,07:29,Morning,01-01-2016,Friday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Cloudy,None,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,14:06,Afternoon,01-01-2016,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051147,Not Applicable,"Overturned, Non-Collision",1
+2015,Property Damage & Injury Accident,08:31,Morning,12/31/2015,Thursday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Snow,Stop Sign,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,07:57,Morning,12/29/2015,Tuesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Sleet/Hail/Freezing Rain,None,Snow/Ice,11 73051165,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,20:06,Night,12/24/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,00:00,Morning,12/20/2015,Sunday,N,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051162,Not Applicable,Deer,1
+2015,Property Damage Accident,17:50,Night,12/18/2015,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051105,Not Applicable,Deer,1
+2015,Property Damage Accident,16:48,Night,12-09-2015,Wednesday,Y,Dark-Road Lighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,178 73011097,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,11:21,Morning,12-05-2015,Saturday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Level,Cloudy,None,Dry,17 64041318,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,06:34,Morning,12-04-2015,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051121,Not Applicable,Deer,1
+2015,Property Damage Accident,17:50,Night,12-03-2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051157,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,16:44,Night,12-02-2015,Wednesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,No Passing Zone,Wet,,Not Applicable,Deer,1
+2015,Property Damage Accident,19:00,Night,11/28/2015,Saturday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,No Passing Zone,Wet,,Not Applicable,Deer,1
+2015,Property Damage Accident,13:04,Afternoon,11/27/2015,Friday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,16:00,Night,11/25/2015,Wednesday,N,Dusk,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,17:10,Night,11/24/2015,Tuesday,Y,Dusk,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,11:02,Morning,11/24/2015,Tuesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,No Passing Zone,Snow/Ice,971P73011003,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,20:20,Night,11/24/2015,Tuesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage Accident,08:18,Morning,11/22/2015,Sunday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Cloudy,None,Wet,178 73011100,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,18:37,Night,11/21/2015,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,23:50,Night,11/19/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051140,Not Applicable,Deer,1
+2015,Property Damage Accident,01:00,Morning,11/17/2015,Tuesday,N,Dark-Road Lighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051142,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2015,Property Damage Accident,17:00,Night,11-11-2015,Wednesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041332,Not Applicable,Deer,1
+2015,Property Damage Accident,17:08,Night,11-08-2015,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Animal, Collision With",1
+2015,Property Damage Accident,12:35,Afternoon,11-07-2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Cloudy,None,Dry,81I73051157,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,15:00,Afternoon,11-06-2015,Friday,Y,Daylight,Minneapolis,RIGHT TURN (6),JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,17:00,Night,11-02-2015,Monday,Y,Dusk,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,00:00,Morning,11-02-2015,Monday,N,Daylight,Minneapolis,Unknown,JEFFERSON,Straight and Level,Clear,None,Wet,11 73051098,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,11:00,Morning,11-01-2015,Sunday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Property Damage Accident,20:40,Night,10/29/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051128,Not Applicable,Deer,1
+2015,Property Damage Accident,19:36,Night,10/29/2015,Thursday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041326,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2015,Property Damage Accident,12:58,Afternoon,10/20/2015,Tuesday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,07:50,Morning,10/16/2015,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,Traffic Signal,Dry,11 73051139,Not Applicable,"Other Motor Vehicle, Collision With",3
+2015,Injury Accident,03:29,Morning,10-10-2015,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Level,Cloudy,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,23:21,Night,10-10-2015,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051117,Not Applicable,Deer,1
+2015,Property Damage Accident,11:25,Morning,10-10-2015,Saturday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,12:29,Afternoon,10-09-2015,Friday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Cloudy,None,Dry,17 64041323,Not Applicable,"Other Motor Vehicle, Collision With",3
+2015,Property Damage Accident,06:14,Morning,10-05-2015,Monday,Y,Dark-Road Lighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,11 73051106,Not Applicable,Deer,1
+2015,Property Damage Accident,07:21,Morning,09/29/2015,Tuesday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Grade,Rain,None,Wet,17 64041333,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,20:05,Night,09/25/2015,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,11 73051128,Not Applicable,Deer,1
+2015,Property Damage Accident,13:15,Afternoon,09-12-2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,None,Wet,81I73051145,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,14:06,Afternoon,09-04-2015,Friday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Level,Clear,None,Dry,17 64041321,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,20:55,Night,09-04-2015,Friday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,Other,Dry,81I73051138,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,17:00,Night,09-03-2015,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,Traffic Signal,Dry,178 73011103,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,16:40,Night,08/24/2015,Monday,Y,Daylight,Kansas City,REAR END,STEUBEN,Straight and Level,Clear,None,Dry,17 64041331,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Injury Accident,09:54,Morning,08/15/2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Cloudy,None,Dry,81I73051157,Not Applicable,"Overturned, Non-Collision",1
+2015,Property Damage Accident,18:07,Night,08-06-2015,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,14:03,Afternoon,08-05-2015,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight at Hill Crest,Clear,No Passing Zone,Dry,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2015,Property Damage Accident,17:51,Night,07/31/2015,Friday,Y,Daylight,Minneapolis,RIGHT TURN (6),JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,10:35,Morning,07/25/2015,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,Stop Sign,Dry,178 73011098,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,16:16,Night,07/23/2015,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,07:00,Morning,07/19/2015,Sunday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,177 73011004,Not Applicable,"Sign Post, Collision With Fixed Object",1
+2015,Property Damage Accident,13:15,Afternoon,07/18/2015,Saturday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Dry,11 73051138,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,02:57,Morning,07-12-2015,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Clear,Stop Sign,Dry,971P73011003,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,13:00,Afternoon,07-12-2015,Sunday,N,Unknown,Kansas City,Unknown,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,14:12,Afternoon,07-11-2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,11 73051101,Not Applicable,"Other Motor Vehicle, Collision With",3
+2015,Property Damage Accident,18:18,Night,07-10-2015,Friday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Grade,Clear,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,21:30,Night,07-10-2015,Friday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Property Damage Accident,18:18,Night,07-07-2015,Tuesday,Y,Daylight,Kansas City,RIGHT ANGLE,STEUBEN,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,10:00,Morning,06/29/2015,Monday,N,Unknown,Minneapolis,Unknown,JEFFERSON,Unknown,Unknown,Unknown,Unknown,178 73011099,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,13:02,Afternoon,06/27/2015,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Grade,Cloudy,Stop Sign,Dry,11 73051169,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,11:05,Morning,06/25/2015,Thursday,Y,Daylight,Minneapolis,HEAD ON,JEFFERSON,Straight and Level,Clear,Traffic Signal,Dry,11 73051103,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,11:00,Morning,06/14/2015,Sunday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,08:40,Morning,06/13/2015,Saturday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,11 73051110,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,21:25,Night,06-09-2015,Tuesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,15:03,Afternoon,06-03-2015,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,13:23,Afternoon,05/28/2015,Thursday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Clear,RR Crossing Sign,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2015,Injury Accident,15:16,Afternoon,05/27/2015,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,,Other Actions in Roadway,"Pedestrian, Collision With",1
+2015,Injury Accident,05:30,Morning,05/27/2015,Wednesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041321,Not Applicable,"Other Motor Vehicle, Collision With",3
+2015,Injury Accident,12:50,Afternoon,05/23/2015,Saturday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Clear,Yield Sign,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,08:52,Morning,05/14/2015,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,None,Dry,11 73051156,Not Applicable,Deer,1
+2015,Property Damage Accident,18:44,Night,05-10-2015,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051127,Not Applicable,Deer,1
+2015,Property Damage Accident,10:55,Morning,05-09-2015,Saturday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,07:32,Morning,05-04-2015,Monday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Grade,Clear,None,Dry,11 73051159,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,23:05,Night,04/28/2015,Tuesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Clear,None,Dry,81I73051150,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2015,Injury Accident,20:57,Night,04/27/2015,Monday,Y,Dark-Road Lighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Rain,No Passing Zone,Wet,177 73011005,Riding/Walking/Skating Along Highway With Traffic,"Pedestrian, Collision With",1
+2015,Property Damage Accident,19:30,Night,04/25/2015,Saturday,N,Dusk,Kansas City,OTHER,STEUBEN,Straight and Level,Unknown,Unknown,Unknown,,Not Applicable,"Fire Hydrant, Collision With Fixed Object",1
+2015,Property Damage Accident,11:33,Morning,04/19/2015,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,178 73011080,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,20:48,Night,04/13/2015,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,11:00,Morning,04-12-2015,Sunday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051142,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Injury Accident,19:57,Night,04-12-2015,Sunday,Y,Dusk,Minneapolis,OTHER,JEFFERSON,Curve and Level,Cloudy,None,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,18:52,Night,04-10-2015,Friday,Y,Dusk,Kansas City,OTHER,STEUBEN,Straight and Grade,Clear,Stop Sign,Wet,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,06:30,Morning,04-10-2015,Friday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,20:00,Night,04-07-2015,Tuesday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Property Damage Accident,10:55,Morning,04-05-2015,Sunday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Snow,None,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,05:40,Morning,04-04-2015,Saturday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Cloudy,No Passing Zone,Dry,17 64041334,Not Applicable,Deer,1
+2015,Property Damage Accident,12:15,Afternoon,04-03-2015,Friday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,05:36,Morning,04-01-2015,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,16:55,Night,03-05-2015,Thursday,Y,Daylight,Minneapolis,LEFT TURN (0),JEFFERSON,Straight and Grade,Clear,None,Dry,177 73011021,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,13:30,Afternoon,02/21/2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Snow,None,Snow/Ice,81I73051162,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,23:30,Night,02/19/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051106,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,20:17,Night,02/16/2015,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve at Hill Crest,Clear,None,Snow/Ice,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,05:51,Morning,02/14/2015,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051111,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,18:10,Night,02/13/2015,Friday,Y,Dark-Road Unlighted,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,11 73051158,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,15:07,Afternoon,02-12-2015,Thursday,Y,Daylight,Kansas City,RIGHT ANGLE,STEUBEN,Straight and Grade,Cloudy,None,Muddy,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,18:34,Night,02-12-2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,11 73051114,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,17:30,Night,02-11-2015,Wednesday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Injury Accident,16:36,Night,02-07-2015,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,14:02,Afternoon,02-07-2015,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051126,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,17:44,Night,02-02-2015,Monday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Snow/Ice,11 73051147,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,07:00,Morning,01/30/2015,Friday,N,Unknown,Minneapolis,Unknown,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,08:45,Morning,01/30/2015,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,None,Snow/Ice,81I73051103,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,00:00,Morning,01/29/2015,Thursday,N,Unknown,Kansas City,REAR END,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,20:45,Night,01/29/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051111,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,18:00,Night,01/29/2015,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Sleet/Hail/Freezing Rain,None,Snow/Ice,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,10:00,Morning,01/26/2015,Monday,N,Daylight,Kansas City,SIDESWIPE,STEUBEN,Straight and Level,Snow,None,Snow/Ice,17 64041322,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,18:00,Night,01/24/2015,Saturday,Y,Dark-Road Lighted,Minneapolis,REAR END,JEFFERSON,Straight and Grade,Sleet/Hail/Freezing Rain,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,22:30,Night,01/23/2015,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Snow/Ice,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,00:00,Morning,01-10-2015,Saturday,N,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Level,Snow,None,Snow/Ice,178 73011079,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,09:30,Morning,01-08-2015,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051102,Not Applicable,"Guide Rail - End, Collision With Fixed Object",1
+2015,Property Damage Accident,09:00,Morning,01-06-2015,Tuesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Level,Snow,No Passing Zone,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,20:30,Night,01-04-2015,Sunday,N,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,Unknown,Wet,,Not Applicable,Deer,1
+2014,Property Damage Accident,13:40,Afternoon,12/31/2014,Wednesday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051114,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,13:40,Afternoon,12/31/2014,Wednesday,Y,Daylight,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051116,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,13:34,Afternoon,12/31/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Snow,Traffic Signal,Snow/Ice,177 73011000,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Injury Accident,14:00,Afternoon,12/31/2014,Wednesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051112,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,17:29,Night,12/21/2014,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051123,Not Applicable,Deer,1
+2014,Property Damage Accident,10:25,Morning,12/20/2014,Saturday,Y,Daylight,Kansas City,RIGHT TURN (6),STEUBEN,Straight and Level,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,21:30,Night,12/18/2014,Thursday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,06:43,Morning,12/17/2014,Wednesday,Y,Dark-Road Lighted,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Rain,No Passing Zone,Wet,11 73051138,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,20:45,Night,12-12-2014,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight at Hill Crest,Cloudy,None,Wet,,Not Applicable,Deer,1
+2014,Property Damage Accident,14:37,Afternoon,12-10-2014,Wednesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,11 73051124,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,18:04,Night,12-06-2014,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,20:50,Night,12-05-2014,Friday,Y,Dark-Road Unlighted,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight at Hill Crest,Rain,Stop Sign,Wet,177 73011001,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Injury Accident,17:14,Night,12-04-2014,Thursday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,,"Crossing, No Signal or Crosswalk","Pedestrian, Collision With",1
+2014,Property Damage Accident,19:28,Night,12-03-2014,Wednesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Grade,Clear,No Passing Zone,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,00:00,Morning,11/28/2014,Friday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,07:04,Morning,11/26/2014,Wednesday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,00:00,Morning,11/26/2014,Wednesday,N,Daylight,Minneapolis,Unknown,JEFFERSON,Straight and Level,Clear,Unknown,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,18:07,Night,11/26/2014,Wednesday,Y,Dark-Road Unlighted,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,05:35,Morning,11/13/2014,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051155,Not Applicable,Deer,1
+2014,Property Damage Accident,12:56,Afternoon,11/13/2014,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051115,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,06:28,Morning,11-11-2014,Tuesday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051158,Not Applicable,Deer,1
+2014,Property Damage Accident,02:32,Morning,11-07-2014,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Wet,81I73051103,Not Applicable,Deer,1
+2014,Property Damage Accident,08:37,Morning,11-07-2014,Friday,Y,Daylight,Kansas City,SIDESWIPE,STEUBEN,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,21:46,Night,11-05-2014,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,No Passing Zone,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,22:20,Night,11-04-2014,Tuesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051164,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,12:15,Afternoon,10/24/2014,Friday,N,Daylight,Minneapolis,Unknown,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,20:49,Night,10/23/2014,Thursday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Grade,Cloudy,No Passing Zone,Dry,17 64041333,Not Applicable,Deer,1
+2014,Property Damage Accident,10:00,Morning,10/20/2014,Monday,N,Unknown,Minneapolis,Unknown,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,23:35,Night,10/20/2014,Monday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,17 64041312,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,22:00,Night,10/13/2014,Monday,Y,Dark-Road Unlighted,Kansas City,RIGHT ANGLE,STEUBEN,Curve and Grade,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,11:12,Morning,10-09-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,RR Crossing Flashing Light,Dry,177 73011007,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,13:34,Afternoon,10-04-2014,Saturday,Y,Daylight,Kansas City,HEAD ON,STEUBEN,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,14:08,Afternoon,10-02-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Grade,Clear,Traffic Signal,Dry,81I73051142,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,18:45,Night,09/28/2014,Sunday,Y,Dusk,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,177 73011008,Not Applicable,Deer,1
+2014,Property Damage Accident,00:35,Morning,09/27/2014,Saturday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight at Hill Crest,Cloudy,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,12:45,Afternoon,09/26/2014,Friday,Y,Daylight,Kansas City,Unknown,STEUBEN,Straight and Level,Clear,Stop Sign,Dry,17 64041320,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Injury Accident,23:10,Night,09/17/2014,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Muddy,,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,10:03,Morning,09/14/2014,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Dry,11 73051112,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,00:31,Morning,09/13/2014,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,10:24,Morning,09-09-2014,Tuesday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051115,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,07:26,Morning,09-08-2014,Monday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051154,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,11:40,Morning,08/30/2014,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Grade,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,07:59,Morning,08/29/2014,Friday,Y,Dawn,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,971P73011001,Not Applicable,Deer,1
+2014,Property Damage Accident,13:00,Afternoon,08/17/2014,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2014,Property Damage Accident,10:07,Morning,08/17/2014,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Dry,178 73011095,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Injury Accident,07:15,Morning,08-12-2014,Tuesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,None,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",3
+2014,Property Damage Accident,22:00,Night,08-11-2014,Monday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight at Hill Crest,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,16:16,Night,08-07-2014,Thursday,Y,Daylight,Minneapolis,SIDESWIPE,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,18:01,Night,08-04-2014,Monday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051142,Not Applicable,"Bridge Structure, Collision With Fixed Object",2
+2014,Property Damage Accident,19:15,Night,08-04-2014,Monday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051122,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2014,Property Damage & Injury Accident,10:02,Morning,08-03-2014,Sunday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051161,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,15:54,Afternoon,08-01-2014,Friday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,19:30,Night,07/27/2014,Sunday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2014,Injury Accident,18:35,Night,07/25/2014,Friday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,178 73011099,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,10:11,Morning,07/23/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,11:23,Morning,07/21/2014,Monday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Grade,Clear,Stop Sign,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,07:28,Morning,07/16/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051127,Not Applicable,Deer,1
+2014,Property Damage Accident,00:00,Morning,07/16/2014,Wednesday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,81I73051127,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,07:58,Morning,07/15/2014,Tuesday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Cloudy,None,Wet,17 64041336,Not Applicable,Deer,1
+2014,Property Damage Accident,14:42,Afternoon,07/13/2014,Sunday,Y,Daylight,Kansas City,SIDESWIPE,STEUBEN,Curve and Level,Clear,No Passing Zone,Dry,17 64041315,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,21:20,Night,07-10-2014,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,11:12,Morning,07-06-2014,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,11 73051165,Not Applicable,Deer,1
+2014,Injury Accident,16:30,Night,07-03-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Wet,81I73051156,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,00:00,Morning,06/29/2014,Sunday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage Accident,04:50,Morning,06/25/2014,Wednesday,Y,Dusk,Kansas City,OTHER,STEUBEN,Straight and Level,Rain,No Passing Zone,Wet,,Not Applicable,Deer,1
+2014,Property Damage Accident,21:15,Night,06/23/2014,Monday,N,Dusk,Minneapolis,OTHER,JEFFERSON,Straight at Hill Crest,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Injury Accident,10:44,Morning,06/21/2014,Saturday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,177 73011002,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,15:51,Afternoon,06/20/2014,Friday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,14:35,Afternoon,06-10-2014,Tuesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,No Passing Zone,Dry,11 73051111,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,19:00,Night,06-05-2014,Thursday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2014,Property Damage Accident,20:58,Night,06-05-2014,Thursday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,No Passing Zone,Wet,,Not Applicable,Deer,1
+2014,Injury Accident,19:00,Night,05/23/2014,Friday,Y,Daylight,Kansas City,RIGHT ANGLE,STEUBEN,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,11:12,Morning,05/15/2014,Thursday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,13:21,Afternoon,05-11-2014,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Stop Sign,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,12:27,Afternoon,05-04-2014,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Cloudy,None,Wet,971P73011000,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,04:50,Morning,05-03-2014,Saturday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,20:40,Night,05-03-2014,Saturday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,16:30,Night,05-02-2014,Friday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,Unknown,Dry,,Not Applicable,"Animal, Collision With",1
+2014,Property Damage Accident,12:38,Afternoon,04/30/2014,Wednesday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Rain,None,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,17:30,Night,04/14/2014,Monday,N,Unknown,Kansas City,OTHER,STEUBEN,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2014,Injury Accident,15:10,Afternoon,04-12-2014,Saturday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041316,Not in Roadway (Indicate),"Pedestrian, Collision With",1
+2014,Property Damage Accident,21:39,Night,04-09-2014,Wednesday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,17 64041334,Not Applicable,Deer,1
+2014,Property Damage Accident,17:44,Night,03/26/2014,Wednesday,Y,Daylight,Kansas City,Unknown,STEUBEN,Straight and Level,Clear,Stop Sign,Dry,17 64041314,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,21:00,Night,03/26/2014,Wednesday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Dry,81I73051139,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,17:49,Night,03/22/2014,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,None,Wet,11 73051134,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,09:39,Morning,03/19/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Clear,None,Dry,11 73051157,Not Applicable,Deer,1
+2014,Property Damage Accident,00:00,Morning,03/14/2014,Friday,N,Unknown,Minneapolis,OTHER,JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Animal, Collision With",1
+2014,Property Damage & Injury Accident,01:13,Morning,03/14/2014,Friday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Curve and Level,Clear,Traffic Signal,Dry,17 64041320,Not Applicable,"Overturned, Non-Collision",1
+2014,Property Damage & Injury Accident,14:30,Afternoon,03/13/2014,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Clear,No Passing Zone,Slush,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage Accident,17:45,Night,03-05-2014,Wednesday,Y,Dusk,Minneapolis,OTHER,JEFFERSON,Straight at Hill Crest,Cloudy,None,Wet,,Not Applicable,Deer,1
+2014,Property Damage Accident,01:45,Morning,03-02-2014,Sunday,Y,Dark-Road Lighted,Kansas City,RIGHT ANGLE,STEUBEN,Straight and Level,Snow,None,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,23:09,Night,03-02-2014,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,19:00,Night,03-01-2014,Saturday,N,Dark-Road Lighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,09:08,Morning,03-01-2014,Saturday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Cloudy,Stop Sign,Dry,11 73051158,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,14:20,Afternoon,02/22/2014,Saturday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Dry,11 73051143,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,13:45,Afternoon,02/13/2014,Thursday,Y,Daylight,Kansas City,OTHER,STEUBEN,Straight and Grade,Snow,Stop Sign,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,18:30,Night,02/13/2014,Thursday,Y,Dark-Road Lighted,Kansas City,REAR END,STEUBEN,Straight and Level,Snow,None,Snow/Ice,17 64041319,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,09:15,Morning,02-11-2014,Tuesday,N,Daylight,Kansas City,OTHER,STEUBEN,Unknown,Clear,None,Unknown,,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1
+2014,Property Damage Accident,05:58,Morning,02-10-2014,Monday,Y,Dark-Road Lighted,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Grade,Cloudy,Stop Sign,Snow/Ice,11 73051101,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,14:06,Afternoon,02-07-2014,Friday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,11:45,Morning,02-07-2014,Friday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Grade,Snow,None,Snow/Ice,81I73051150,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,16:00,Night,02-06-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051110,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,17:13,Night,02-06-2014,Thursday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,Traffic Signal,Snow/Ice,177 73011002,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,16:01,Night,02-06-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051111,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,10:24,Morning,02-06-2014,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",3
+2014,Property Damage Accident,16:00,Night,02-06-2014,Thursday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051110,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,06:07,Morning,02-03-2014,Monday,Y,Dark-Road Unlighted,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Cloudy,None,Snow/Ice,11 73051124,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,10:45,Morning,02-02-2014,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Injury Accident,17:07,Night,02-01-2014,Saturday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051125,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage Accident,12:50,Afternoon,01/31/2014,Friday,Y,Daylight,Minneapolis,LEFT TURN (3),JEFFERSON,Straight and Level,Snow,None,Wet,178 73011099,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,08:27,Morning,01/30/2014,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Clear,None,Snow/Ice,81I73051129,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage Accident,07:22,Morning,01/30/2014,Thursday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Snow/Ice,81I73051118,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage Accident,00:00,Morning,01/29/2014,Wednesday,N,Dawn,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,16:47,Night,01/29/2014,Wednesday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,177 73011020,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,08:04,Morning,01/29/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Snow,None,Slush,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,01:42,Morning,01/29/2014,Wednesday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Straight and Level,Clear,No Passing Zone,Dry,17 64041311,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,14:19,Afternoon,01/29/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051163,Not Applicable,"Overturned, Non-Collision",1
+2014,Property Damage Accident,07:20,Morning,01/29/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Snow,None,Slush,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,16:06,Night,01/29/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051124,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage Accident,10:11,Morning,01/29/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051146,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage Accident,13:44,Afternoon,01/27/2014,Monday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Snow,None,Snow/Ice,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,18:20,Night,01/27/2014,Monday,N,Unknown,Minneapolis,LEFT TURN (3),JEFFERSON,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,22:37,Night,01/24/2014,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1
+2014,Property Damage Accident,05:30,Morning,01/24/2014,Friday,N,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Grade,Cloudy,Unknown,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,14:25,Afternoon,01/22/2014,Wednesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Clear,None,Snow/Ice,,Not Applicable,Deer,1
+2014,Property Damage Accident,14:00,Afternoon,01/21/2014,Tuesday,N,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2014,Property Damage Accident,18:54,Night,01/19/2014,Sunday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Curve and Level,Snow,None,Snow/Ice,81I73051146,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Injury Accident,07:47,Morning,01/19/2014,Sunday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051119,Not Applicable,"Overturned, Non-Collision",1
+2014,Property Damage Accident,18:45,Night,01/19/2014,Sunday,Y,Dark-Road Unlighted,Minneapolis,OVERTAKING,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051140,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,16:10,Night,01/19/2014,Sunday,Y,Daylight,Minneapolis,REAR END,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,81I73051151,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,04:40,Morning,01/18/2014,Saturday,Y,Dark-Road Lighted,Kansas City,OTHER,STEUBEN,Curve and Level,Snow,No Passing Zone,Snow/Ice,17 64041318,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2014,Property Damage Accident,07:57,Morning,01/13/2014,Monday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Clear,No Passing Zone,Snow/Ice,,Not Applicable,"Overturned, Non-Collision",1
+2014,Property Damage Accident,07:40,Morning,01-11-2014,Saturday,N,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Rain,None,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Injury Accident,19:00,Night,01-10-2014,Friday,Y,Dark-Road Unlighted,Minneapolis,REAR END,JEFFERSON,Straight and Level,Clear,Stop Sign,Wet,81I73051158,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,18:56,Night,01-10-2014,Friday,Y,Dark-Road Unlighted,Minneapolis,OTHER,JEFFERSON,Straight and Level,Cloudy,None,Wet,11 73051143,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,10:30,Morning,01-07-2014,Tuesday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Straight and Level,Snow,No Passing Zone,Snow/Ice,11 73051124,Not Applicable,"Other Motor Vehicle, Collision With",4
+2014,Property Damage & Injury Accident,11:51,Morning,01-07-2014,Tuesday,Y,Daylight,Minneapolis,RIGHT ANGLE,JEFFERSON,Straight and Level,Snow,None,Snow/Ice,11 73051109,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,19:21,Night,01-07-2014,Tuesday,Y,Dark-Road Lighted,Minneapolis,SIDESWIPE,JEFFERSON,Curve and Grade,Snow,No Passing Zone,Snow/Ice,11 73051102,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,01:27,Morning,01-07-2014,Tuesday,Y,Dark-Road Lighted,Kansas City,RIGHT ANGLE,STEUBEN,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,19:45,Night,01-06-2014,Monday,Y,Dark-Road Unlighted,Kansas City,OTHER,STEUBEN,Straight and Grade,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,09:21,Morning,01-06-2014,Monday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Cloudy,No Passing Zone,Snow/Ice,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,11:55,Morning,01-03-2014,Friday,Y,Daylight,Minneapolis,OTHER,JEFFERSON,Curve and Level,Clear,None,Snow/Ice,81I73051104,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,12:13,Afternoon,01-02-2014,Thursday,Y,Daylight,Kansas City,OTHER,STEUBEN,Curve and Grade,Snow,No Passing Zone,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,10:30,Morning,12/30/2016,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Snow,No Passing Zone,Wet,7 92021065,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,18:15,Night,12/26/2016,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,88I92021025,Not Applicable,Deer,1
+2016,Property Damage Accident,17:18,Night,12/22/2016,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Level,Snow,No Passing Zone,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,11:43,Morning,12/17/2016,Saturday,Y,Daylight,Houston,RIGHT ANGLE,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,04:25,Morning,12-11-2016,Sunday,Y,Dark-Road Lighted,Houston,LEFT TURN (0),CHENANGO,Curve and Level,Snow,None,Snow/Ice,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,06:00,Morning,12-01-2016,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Level,Rain,None,Wet,88I92021049,Not Applicable,Deer,1
+2016,Property Damage Accident,17:35,Night,11/27/2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Wet,88I92021036,Not Applicable,Deer,1
+2016,Property Damage Accident,12:23,Afternoon,11/26/2016,Saturday,Y,Daylight,Houston,OVERTAKING,CHENANGO,Straight and Level,Cloudy,None,Wet,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,17:03,Night,11/23/2016,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,235 92021018,Not Applicable,Deer,1
+2016,Property Damage Accident,03:28,Morning,11/23/2016,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,05:40,Morning,11/21/2016,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021008,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,12:00,Afternoon,11/21/2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Curve at Hill Crest,Snow,None,Snow/Ice,7 92021010,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2016,Property Damage Accident,15:54,Afternoon,11/21/2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,No Passing Zone,Snow/Ice,41 92021002,Not Applicable,Deer,1
+2016,Property Damage Accident,05:00,Morning,11/19/2016,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,18:30,Night,11/13/2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,No Passing Zone,Dry,7 92021038,Not Applicable,Deer,1
+2016,Property Damage Accident,23:01,Night,11-07-2016,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021034,Not Applicable,Deer,1
+2016,Property Damage Accident,19:20,Night,11-05-2016,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,19:20,Night,11-05-2016,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021047,Not Applicable,Deer,1
+2016,Property Damage Accident,07:30,Morning,11-04-2016,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021051,Not Applicable,Deer,1
+2016,Property Damage Accident,18:35,Night,10/25/2016,Tuesday,Y,Dusk,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,7 92021012,Not Applicable,Deer,1
+2016,Property Damage Accident,19:51,Night,10/16/2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,235 92021024,Not Applicable,Deer,1
+2016,Property Damage Accident,21:00,Night,10/13/2016,Thursday,N,Dark-Road Unlighted,Houston,Unknown,CHENANGO,Curve and Level,Cloudy,Unknown,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,11:54,Morning,10-12-2016,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021072,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,07:59,Morning,10-10-2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,04:46,Morning,10-09-2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021035,Not Applicable,Deer,1
+2016,Property Damage Accident,00:00,Morning,10-05-2016,Wednesday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,7 92021018,Not Applicable,Deer,1
+2016,Property Damage Accident,10:05,Morning,10-02-2016,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Straight at Hill Crest,Cloudy,No Passing Zone,Wet,7 92021023,Not Applicable,"Overturned, Non-Collision",1
+2016,Property Damage & Injury Accident,15:52,Afternoon,09/26/2016,Monday,Y,Daylight,Houston,SIDESWIPE,CHENANGO,Straight at Hill Crest,Clear,No Passing Zone,Dry,235 92021013,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,08:09,Morning,09/19/2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Wet,,Not Applicable,Deer,1
+2016,Property Damage Accident,13:20,Afternoon,09-11-2016,Sunday,Y,Daylight,Houston,RIGHT TURN (5),CHENANGO,Straight and Level,Clear,Stop Sign,Dry,7 92021053,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage Accident,06:02,Morning,08/20/2016,Saturday,N,Dawn,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,None,Dry,7 92021079,Not Applicable,Deer,1
+2016,Property Damage Accident,21:42,Night,08-10-2016,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,7 92021036,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,11:20,Morning,08-01-2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,7 92021018,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,16:40,Night,07/26/2016,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021053,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,02:45,Morning,07/24/2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021055,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,15:22,Afternoon,07-12-2016,Tuesday,N,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,7 92021061,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,21:42,Night,07-11-2016,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Level,Clear,No Passing Zone,Dry,7 92021003,Not Applicable,Deer,1
+2016,Property Damage Accident,12:37,Afternoon,07-04-2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage & Injury Accident,12:41,Afternoon,06/25/2016,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Clear,None,Dry,88I92021007,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,00:00,Morning,06/16/2016,Thursday,N,Dusk,Houston,OTHER,CHENANGO,Straight and Level,Clear,Unknown,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,19:50,Night,06/16/2016,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,09:10,Morning,06-12-2016,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,88I92021010,Not Applicable,Deer,1
+2016,Property Damage Accident,21:05,Night,06-12-2016,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021021,Not Applicable,Deer,1
+2016,Property Damage Accident,07:15,Morning,06-11-2016,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021038,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,00:00,Morning,06-03-2016,Friday,N,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,08:11,Morning,05/31/2016,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021024,Not Applicable,Deer,1
+2016,Property Damage Accident,05:10,Morning,05/19/2016,Thursday,Y,Dawn,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021059,Not Applicable,Deer,1
+2016,Property Damage Accident,05:30,Morning,05/16/2016,Monday,Y,Dawn,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,15:12,Afternoon,05-11-2016,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,88I92021058,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,12:50,Afternoon,05-02-2016,Monday,Y,Daylight,Houston,REAR END,CHENANGO,Curve and Level,Rain,No Passing Zone,Wet,7 92021071,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,16:00,Night,04/27/2016,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,11:45,Morning,04/18/2016,Monday,N,Daylight,Houston,Unknown,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2016,Property Damage & Injury Accident,12:30,Afternoon,04-12-2016,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,09:13,Morning,04-04-2016,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021022,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Injury Accident,20:50,Night,03/25/2016,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1
+2016,Injury Accident,18:19,Night,03/18/2016,Friday,Y,Dusk,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Wet,41 92021047,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,08:00,Morning,03/17/2016,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,None,Wet,7 92021081,Not Applicable,Deer,1
+2016,Property Damage Accident,12:00,Afternoon,03-07-2016,Monday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage Accident,11:53,Morning,03-02-2016,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021002,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,14:28,Afternoon,03-02-2016,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Clear,None,Dry,,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,07:50,Morning,02/26/2016,Friday,Y,Unknown,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Snow/Ice,,Not Applicable,"Guide Rail - End, Collision With Fixed Object",1
+2016,Property Damage Accident,09:30,Morning,02/16/2016,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Sleet/Hail/Freezing Rain,None,Snow/Ice,7 92021008,Not Applicable,"Bridge Structure, Collision With Fixed Object",1
+2016,Property Damage & Injury Accident,13:35,Afternoon,02/13/2016,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2016,Property Damage Accident,00:15,Morning,01/28/2016,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,No Passing Zone,Dry,7 92021040,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2016,Property Damage Accident,05:30,Morning,01/26/2016,Tuesday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,"Animal, Collision With",1
+2016,Property Damage Accident,06:30,Morning,01/26/2016,Tuesday,Y,Dawn,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,04:40,Morning,01/22/2016,Friday,Y,Dark-Road Lighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021008,Not Applicable,Deer,1
+2016,Injury Accident,20:34,Night,01-12-2016,Tuesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021045,Riding/Walking/Skating Along Highway Against Traffic,"Pedestrian, Collision With",1
+2016,Injury Accident,11:50,Morning,01-08-2016,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021029,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Injury Accident,04:57,Morning,01-08-2016,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Snow/Ice,,Not Applicable,"Tree, Collision With Fixed Object",1
+2016,Property Damage Accident,06:30,Morning,01-06-2016,Wednesday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2016,Property Damage Accident,17:30,Night,01-01-2016,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,,Not Applicable,Deer,1
+2016,Property Damage Accident,23:30,Night,01-01-2016,Friday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Snow,None,Snow/Ice,,Not Applicable,Deer,1
+2015,Property Damage Accident,05:24,Morning,12/28/2015,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021048,Not Applicable,Deer,1
+2015,Property Damage Accident,17:43,Night,12/27/2015,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Rain,None,Wet,,Not Applicable,"Tree, Collision With Fixed Object",1
+2015,Property Damage Accident,07:03,Morning,12/23/2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage Accident,08:50,Morning,12/18/2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021048,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,01:14,Morning,11/27/2015,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,"Building/Wall, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,09:51,Morning,11/25/2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,No Passing Zone,Dry,7 92021012,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,07:16,Morning,11/24/2015,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021003,Not Applicable,Deer,1
+2015,Property Damage Accident,18:30,Night,11/20/2015,Friday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight at Hill Crest,Clear,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,17:12,Night,11/20/2015,Friday,Y,Dusk,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021070,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,04:15,Morning,11-11-2015,Wednesday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,16:03,Night,11-08-2015,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,,Not Applicable,"Tree, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,11:25,Morning,11-03-2015,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,No Passing Zone,Dry,7 92021016,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2015,Property Damage Accident,18:45,Night,11-03-2015,Tuesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,,Not Applicable,Deer,1
+2015,Property Damage Accident,13:45,Afternoon,10/26/2015,Monday,Y,Daylight,Houston,REAR END,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,15:41,Afternoon,10/23/2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,88I92021000,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,16:14,Night,10-02-2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,7 92021010,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2015,Property Damage Accident,19:12,Night,10-01-2015,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021027,Not Applicable,Deer,1
+2015,Property Damage Accident,20:53,Night,09-09-2015,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,7 92021067,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,11:00,Morning,09-05-2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",3
+2015,Property Damage Accident,07:45,Morning,09-04-2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,No Passing Zone,Dry,7 92021030,Not Applicable,Deer,1
+2015,Property Damage Accident,14:00,Afternoon,08/28/2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,88I92021032,Not Applicable,"Animal, Collision With",1
+2015,Property Damage Accident,22:00,Night,08/25/2015,Tuesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021066,Not Applicable,Deer,1
+2015,Property Damage Accident,22:19,Night,08/13/2015,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Clear,No Passing Zone,Dry,7 92021061,Not Applicable,"Ran Off Roadway Only, Non-Collision",1
+2015,Property Damage Accident,11:30,Morning,08-07-2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021066,Not Applicable,Deer,1
+2015,Property Damage Accident,21:10,Night,07/27/2015,Monday,N,Dusk,Houston,OTHER,CHENANGO,Straight and Grade,Rain,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,21:54,Night,07/15/2015,Wednesday,Y,Dark-Road Unlighted,Houston,REAR END,CHENANGO,Straight and Level,Clear,None,Dry,88I92021057,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,21:57,Night,07-11-2015,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,"Ran Off Roadway Only, Non-Collision",1
+2015,Property Damage Accident,07:23,Morning,06/30/2015,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Rain,None,Wet,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,11:45,Morning,06/29/2015,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021010,Not Applicable,Deer,1
+2015,Property Damage Accident,20:44,Night,06/27/2015,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,,Not Applicable,Deer,1
+2015,Property Damage Accident,21:30,Night,06/24/2015,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021035,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,14:04,Afternoon,06/21/2015,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,,Not Applicable,"Ran Off Roadway Only, Non-Collision",1
+2015,Property Damage Accident,00:00,Morning,06/21/2015,Sunday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2015,Property Damage Accident,05:15,Morning,06/18/2015,Thursday,N,Dawn,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,235 92021021,Not Applicable,Deer,1
+2015,Property Damage & Injury Accident,15:57,Afternoon,06/15/2015,Monday,Y,Daylight,Houston,REAR END,CHENANGO,Curve and Level,Cloudy,Stopped School Bus-Red Lights Flashing,Dry,41 92021022,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage Accident,03:21,Morning,06/15/2015,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,88I92021049,Not Applicable,"Median - Not At End, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,20:00,Night,06-10-2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,88I92021069,Not Applicable,Deer,1
+2015,Property Damage Accident,19:10,Night,06-08-2015,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,235 92021007,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2015,Property Damage Accident,20:01,Night,05/25/2015,Monday,Y,Dusk,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021036,Not Applicable,"Animal, Collision With",1
+2015,Property Damage Accident,17:15,Night,05/13/2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021007,Not Applicable,Deer,1
+2015,Property Damage Accident,23:55,Night,04/16/2015,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021077,Not Applicable,Deer,1
+2015,Property Damage Accident,05:00,Morning,04-02-2015,Thursday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Property Damage Accident,11:00,Morning,04-01-2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,88I92021024,Not Applicable,Deer,1
+2015,Property Damage Accident,06:19,Morning,03/28/2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021061,Not Applicable,Deer,1
+2015,Property Damage Accident,18:22,Night,03/28/2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021061,Not Applicable,Deer,1
+2015,Property Damage Accident,19:57,Night,03/22/2015,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021036,Not Applicable,Deer,1
+2015,Property Damage Accident,13:47,Afternoon,03/20/2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021017,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Injury Accident,13:00,Afternoon,03-12-2015,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,No Passing Zone,Dry,41 92021032,Other Actions in Roadway,"Pedestrian, Collision With",1
+2015,Injury Accident,07:22,Morning,03-08-2015,Sunday,Y,Daylight,Houston,REAR END,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021014,Not Applicable,"Other Motor Vehicle, Collision With",2
+2015,Property Damage & Injury Accident,20:38,Night,02/25/2015,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,12:58,Afternoon,02/21/2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021024,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage & Injury Accident,19:10,Night,02/16/2015,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Snow/Ice,,Not Applicable,"Tree, Collision With Fixed Object",1
+2015,Property Damage Accident,08:47,Morning,02/14/2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Snow,None,Snow/Ice,88I92021015,Not Applicable,"Snow Embankment, Collision With Fixed Object",1
+2015,Property Damage Accident,11:45,Morning,02/14/2015,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021007,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,05:30,Morning,02-04-2015,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Snow,Yield Sign,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,09:30,Morning,02-01-2015,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Snow,None,Snow/Ice,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,16:32,Night,01/28/2015,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021034,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,18:00,Night,01/26/2015,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Wet,88I92021009,Not Applicable,Deer,1
+2015,Property Damage Accident,06:00,Morning,01/16/2015,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021065,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2015,Property Damage Accident,10:10,Morning,01-12-2015,Monday,Y,Daylight,Houston,OVERTAKING,CHENANGO,Straight and Grade,Sleet/Hail/Freezing Rain,None,Snow/Ice,88I92021018,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",2
+2015,Property Damage Accident,13:10,Afternoon,01-12-2015,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Snow/Ice,88I92021007,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2015,Property Damage Accident,17:35,Night,01-09-2015,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,41 92021054,Not Applicable,Deer,1
+2015,Property Damage Accident,00:00,Morning,01-09-2015,Friday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2015,Property Damage Accident,11:45,Morning,01-09-2015,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Snow/Ice,,Not Applicable,"Culver/Head Wall, Collision With Fixed Object",1
+2014,Property Damage Accident,04:04,Morning,12/21/2014,Sunday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2014,Property Damage Accident,11:00,Morning,12/14/2014,Sunday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other*, Non-Collision",1
+2014,Property Damage Accident,18:36,Night,12-11-2014,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Snow/Ice,,Not Applicable,Deer,1
+2014,Injury Accident,08:43,Morning,12-11-2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Curve at Hill Crest,Snow,None,Snow/Ice,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,15:00,Afternoon,12-09-2014,Tuesday,Y,Daylight,Houston,OVERTAKING,CHENANGO,Straight and Grade,Sleet/Hail/Freezing Rain,None,Wet,88I92021053,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,11:03,Morning,11/29/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021030,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,18:50,Night,11/29/2014,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021011,Not Applicable,Deer,1
+2014,Injury Accident,21:30,Night,11/27/2014,Thursday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Unknown,88I92021018,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,19:00,Night,11/23/2014,Sunday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Wet,,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,06:00,Morning,11/23/2014,Sunday,Y,Dawn,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Snow/Ice,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage Accident,15:10,Afternoon,11/22/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021051,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,07:24,Morning,11-12-2014,Wednesday,Y,Daylight,Houston,REAR END,CHENANGO,Curve and Level,Cloudy,None,Wet,88I92021049,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,06:56,Morning,11-10-2014,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021065,Not Applicable,Deer,1
+2014,Property Damage Accident,19:15,Night,11-08-2014,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021047,Not Applicable,Deer,1
+2014,Property Damage Accident,00:00,Morning,11-08-2014,Saturday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021063,Not Applicable,Deer,1
+2014,Fatal Accident,09:04,Morning,11-07-2014,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Wet,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,15:57,Afternoon,11-04-2014,Tuesday,Y,Daylight,Houston,REAR END,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021009,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,15:00,Afternoon,11-03-2014,Monday,N,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,14:55,Afternoon,10/26/2014,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021049,Not Applicable,"Fire/Explosion, Non-Collision",1
+2014,Property Damage Accident,10:30,Morning,10/25/2014,Saturday,N,Daylight,Houston,OTHER,CHENANGO,Straight at Hill Crest,Cloudy,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,13:32,Afternoon,10/20/2014,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,20:00,Night,10/20/2014,Monday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,None,Dry,88I92021070,Not Applicable,Deer,1
+2014,Injury Accident,20:00,Night,10-11-2014,Saturday,Y,Dark-Road Lighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,,Not Applicable,"Other*, Non-Collision",1
+2014,Property Damage Accident,12:33,Afternoon,10-09-2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021067,Not Applicable,"Fire/Explosion, Non-Collision",1
+2014,Property Damage Accident,16:55,Night,09/30/2014,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,235 92021011,Not Applicable,Deer,1
+2014,Property Damage & Injury Accident,03:28,Morning,09/20/2014,Saturday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021045,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,13:34,Afternoon,09/13/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Rain,None,Wet,,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,19:56,Night,09-11-2014,Thursday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021015,Not Applicable,Deer,1
+2014,Property Damage Accident,18:00,Night,09-04-2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,88I92021015,Not Applicable,"Animal, Collision With",1
+2014,Property Damage Accident,11:50,Morning,09-03-2014,Wednesday,Y,Daylight,Houston,LEFT TURN (3),CHENANGO,Straight and Level,Clear,No Passing Zone,Dry,7 92021049,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage & Injury Accident,21:10,Night,09-02-2014,Tuesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Rain,None,Wet,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,13:56,Afternoon,08/27/2014,Wednesday,Y,Daylight,Houston,LEFT TURN (0),CHENANGO,Curve and Grade,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,16:33,Night,08/21/2014,Thursday,Y,Daylight,Houston,HEAD ON,CHENANGO,Straight and Level,Cloudy,None,Wet,41 92021031,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,09:15,Morning,08/15/2014,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021053,Not Applicable,"Guide Rail - End, Collision With Fixed Object",1
+2014,Property Damage Accident,20:55,Night,08-06-2014,Wednesday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,,Not Applicable,"Overturned, Non-Collision",1
+2014,Property Damage & Injury Accident,16:51,Night,08-05-2014,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage Accident,14:35,Afternoon,07/29/2014,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,88I92021004,Not Applicable,"Other Object (Not Fixed)*, Collision With",1
+2014,Property Damage Accident,08:00,Morning,07/24/2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,88I92021030,Not Applicable,Deer,1
+2014,Property Damage Accident,11:00,Morning,07/18/2014,Friday,N,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Property Damage Accident,08:03,Morning,07/17/2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021054,Not Applicable,Deer,1
+2014,Property Damage Accident,11:05,Morning,07-02-2014,Wednesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Clear,None,Dry,88I92021076,Not Applicable,Deer,1
+2014,Property Damage Accident,08:59,Morning,07-01-2014,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,88I92021067,Not Applicable,Deer,1
+2014,Property Damage Accident,19:56,Night,06/21/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,No Passing Zone,Dry,41 92021005,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Property Damage Accident,07:20,Morning,06/16/2014,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Fog/Smog/Smoke,None,Dry,88I92021032,Not Applicable,"Animal, Collision With",1
+2014,Property Damage Accident,05:12,Morning,06-01-2014,Sunday,Y,Dawn,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,No Passing Zone,Other,41 92021053,Not Applicable,Deer,1
+2014,Property Damage Accident,06:32,Morning,05/27/2014,Tuesday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Level,Cloudy,None,Dry,88I92021021,Not Applicable,Deer,1
+2014,Property Damage Accident,20:30,Night,05/27/2014,Tuesday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,41 92021039,Not Applicable,"Other*, Non-Collision",1
+2014,Property Damage Accident,15:10,Afternoon,05/23/2014,Friday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Cloudy,None,Dry,88I92021036,Not Applicable,Deer,1
+2014,Injury Accident,19:00,Night,05/19/2014,Monday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Dry,7 92021078,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2014,Injury Accident,21:20,Night,05/16/2014,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Rain,No Passing Zone,Wet,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,14:30,Afternoon,05/15/2014,Thursday,Y,Daylight,Houston,LEFT TURN (3),CHENANGO,Straight and Level,Cloudy,Stop Sign,Dry,7 92021052,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Injury Accident,06:15,Morning,05-08-2014,Thursday,Y,Dawn,Houston,OTHER,CHENANGO,Straight and Level,Rain,None,Wet,88I92021030,Not Applicable,Deer,1
+2014,Property Damage Accident,13:45,Afternoon,04/24/2014,Thursday,Y,Daylight,Houston,OVERTAKING,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,13:26,Afternoon,04/20/2014,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,88I92021003,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,06:50,Morning,04-10-2014,Thursday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1
+2014,Property Damage Accident,00:00,Morning,03/31/2014,Monday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage Accident,05:30,Morning,03/30/2014,Sunday,N,Unknown,Houston,OTHER,CHENANGO,Unknown,Unknown,Unknown,Unknown,,Not Applicable,Deer,1
+2014,Property Damage Accident,11:25,Morning,03/29/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Cloudy,No Passing Zone,Dry,7 92021051,Not Applicable,"Sign Post, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,16:03,Night,03/23/2014,Sunday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Grade,Clear,None,Dry,,Not Applicable,"Tree, Collision With Fixed Object",1
+2014,Property Damage Accident,00:00,Morning,03/22/2014,Saturday,N,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Curve and Grade,Clear,None,Dry,,Not Applicable,Deer,1
+2014,Injury Accident,15:12,Afternoon,02/27/2014,Thursday,Y,Daylight,Houston,SIDESWIPE,CHENANGO,Curve and Level,Snow,No Passing Zone,Snow/Ice,7 92021038,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",2
+2014,Property Damage & Injury Accident,17:45,Night,02/14/2014,Friday,Y,Dark-Road Lighted,Houston,OTHER,CHENANGO,Straight and Level,Clear,None,Snow/Ice,,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,11:00,Morning,02/13/2014,Thursday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Snow,None,Snow/Ice,88I92021079,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Injury Accident,17:36,Night,02-07-2014,Friday,Y,Dark-Road Unlighted,Houston,Unknown,CHENANGO,Straight and Grade,Cloudy,No Passing Zone,Dry,235 92021005,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,11:33,Morning,01/28/2014,Tuesday,Y,Daylight,Houston,REAR END,CHENANGO,Straight and Level,Cloudy,No Passing Zone,Dry,,Not Applicable,"Other Motor Vehicle, Collision With",2
+2014,Property Damage Accident,10:50,Morning,01/25/2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021005,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1
+2014,Property Damage & Injury Accident,23:35,Night,01/17/2014,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Level,Cloudy,None,Dry,88I92021068,Not Applicable,Deer,1
+2014,Property Damage Accident,01:26,Morning,01/16/2014,Thursday,Y,Dark-Road Lighted,Houston,OTHER,CHENANGO,Straight and Level,Snow,No Passing Zone,Wet,7 92021007,Not Applicable,Deer,1
+2014,Property Damage Accident,09:54,Morning,01-11-2014,Saturday,Y,Daylight,Houston,OTHER,CHENANGO,Curve and Grade,Rain,No Passing Zone,Wet,235 92021015,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1
+2014,Injury Accident,18:52,Night,01-10-2014,Friday,Y,Dark-Road Unlighted,Houston,OTHER,CHENANGO,Straight and Grade,Clear,No Passing Zone,Snow/Ice,,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1
